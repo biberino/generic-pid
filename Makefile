@@ -1,2 +1,2 @@
 all:
-	gcc pid.c main.c -o regler
+	gcc pid.c main.c -o controller
